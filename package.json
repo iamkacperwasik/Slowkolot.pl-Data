@@ -1,0 +1,14 @@
+{
+  "type": "module",
+  "scripts": {
+    "update_words": "node scripts/update_words.mjs"
+  },
+  "devDependencies": {
+    "@types/node": "^20.5.9",
+    "dotenv": "^16.3.1",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.33.1"
+  }
+}
