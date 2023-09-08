@@ -1,8 +1,374 @@
 [
-  {"word": "1", "word_definition": "a"},
-  {"word": "2", "word_definition": "b"},
-  {"word": "3", "word_definition": "c"},
-  {"word": "4", "word_definition": "d"},
-  {"word": "5", "word_definition": "e"},
-  {"word": "6", "word_definition": "f"}
+  {
+    "word": "Koryfeusz",
+    "word_definition": "Osoba wybitnie wykształcona lub znana w danej dziedzinie, autorytet w danej dziedzinie."
+  },
+  {
+    "word": "Akapit",
+    "word_definition": "Krótka część tekstu pisemnego, oddzielona pustą linią lub wcięciem, zawierająca jedną myśl lub koncepcję."
+  },
+  {
+    "word": "Makabryczny",
+    "word_definition": "Przerażający lub okropny w sposób niezwykle drastyczny lub przesadny."
+  },
+  {
+    "word": "Retroaktywny",
+    "word_definition": "Odwołujący się do wydarzeń lub działań mających miejsce przed danym punktem w czasie, zwykle w kontekście prawa lub umowy."
+  },
+  {
+    "word": "Wyzwiska",
+    "word_definition": "Obelgi lub obraźliwe słowa kierowane wobec kogoś, mające na celu go obrazić lub znieważyć."
+  },
+  {
+    "word": "Złotousty",
+    "word_definition": "Osoba wyjątkowo elokwentna i biegła w wyrażaniu myśli słowami."
+  },
+  {
+    "word": "Mizantrop",
+    "word_definition": "Osoba, która ma negatywne lub nieufne podejście do ludzi i unika ich towarzystwa."
+  },
+  {
+    "word": "Egzekwowany",
+    "word_definition": "Coś, co jest wdrażane lub egzekwowane z pełnym przestrzeganiem zasad i procedur."
+  },
+  {
+    "word": "Eklektyzm",
+    "word_definition": "Podejście polegające na wybieraniu i łączeniu różnych elementów lub stylów z różnych źródeł."
+  },
+  {
+    "word": "Hedonizm",
+    "word_definition": "Filozoficzna koncepcja, która zakłada, że najważniejszym celem życia jest maksymalizacja przyjemności i unikanie cierpienia."
+  },
+  {
+    "word": "Perypetie",
+    "word_definition": "Niezwykłe lub skomplikowane przygody lub wydarzenia."
+  },
+  {
+    "word": "Kryptoreklama",
+    "word_definition": "Forma reklamy, która jest ukryta lub trudna do zauważenia przez odbiorców."
+  },
+  {
+    "word": "Abdykacja",
+    "word_definition": "Akt rezygnacji z urzędu lub władzy, często przez monarchę lub przywódcę."
+  },
+  {
+    "word": "Sesquipedalianizm",
+    "word_definition": "Używanie bardzo długich słów lub wyrażeń w mowie lub piśmie."
+  },
+  {
+    "word": "Intryga",
+    "word_definition": "Skrzyżowanie spisku lub ukrytych działań mających na celu osiągnięcie celu, często w sposób podstępny lub nieuczciwy."
+  },
+  {
+    "word": "Synekdocha",
+    "word_definition": "Figura retoryczna, w której część czegoś jest używana, aby reprezentować całość lub całość, aby reprezentować część."
+  },
+  {
+    "word": "Paradoks",
+    "word_definition": "Sprzeczność lub sytuacja, która zdaje się być sprzeczna z intuicją lub logiką."
+  },
+  {
+    "word": "Peryfrazować",
+    "word_definition": "Opisywanie czegoś lub wyrażanie myśli za pomocą dłuższych lub bardziej rozwiniętych sformułowań niż to jest konieczne."
+  },
+  {
+    "word": "Solipsyzm",
+    "word_definition": "Filozoficzna koncepcja, według której jedyna pewna rzecz to istnienie własnego umysłu, a reszta świata może być iluzją."
+  },
+  {
+    "word": "Anachronizm",
+    "word_definition": "Umieszczenie czegoś w nieodpowiednim czasie lub kontekście historycznym, co jest sprzeczne z rzeczywistością."
+  },
+  {
+    "word": "Szyderstwo",
+    "word_definition": "Drwiące lub kpiące zachowanie lub uwagi wobec kogoś lub czegoś."
+  },
+  {
+    "word": "Melancholia",
+    "word_definition": "Stan głębokiej smutku lub depresji, często bez wyraźnego powodu."
+  },
+  {
+    "word": "Innuendo",
+    "word_definition": "Subtelna aluzja lub insynuacja, często mająca na celu sugerowanie czegoś negatywnego lub nieprzyzwoitego."
+  },
+  {
+    "word": "Pantomima",
+    "word_definition": "Forma teatralna, w której akcja lub opowiadanie jest wyrażane za pomocą gestów, mimiki i ruchów ciała, bez używania słów."
+  },
+  {
+    "word": "Altruizm",
+    "word_definition": "Działanie lub postawa polegająca na bezinteresownym pomaganiu innym lub dbaniu o ich dobro, bez oczekiwania niczego w zamian."
+  },
+  {
+    "word": "Sarkazm",
+    "word_definition": "Forma ironii, w której używa się złośliwego lub kpinowego tonu, aby wyrazić przeciwny sens do słów wypowiedzianych."
+  },
+  {
+    "word": "Ubikacja",
+    "word_definition": "Inna nazwa toalety lub toalety."
+  },
+  {
+    "word": "Dyskrecja",
+    "word_definition": "Uważność i ostrożność w zachowaniach lub mówieniu, szczególnie w celu zachowania poufności lub tajemnicy."
+  },
+  {
+    "word": "Euforia",
+    "word_definition": "Stan ogromnej radości, szczęścia lub euforii."
+  },
+  {
+    "word": "Anekdotka",
+    "word_definition": "Krótka i zabawna opowieść lub historyjka."
+  },
+  {
+    "word": "Nostalgia",
+    "word_definition": "Tęsknota za przeszłością, często związana z przyjemnymi wspomnieniami."
+  },
+  {
+    "word": "Konfabulacja",
+    "word_definition": "Tworzenie fałszywych lub nieprawdziwych opowieści, zwłaszcza przez osoby z zaburzeniami psychicznymi."
+  },
+  {
+    "word": "Pompatyczny",
+    "word_definition": "Pełen uroczystości i przesadnego okazania uczuć, często w sposób fałszywy lub przesadzony."
+  },
+  {
+    "word": "Sylwetka",
+    "word_definition": "Kontur lub zarys ciała lub obiektu."
+  },
+  {
+    "word": "Kolektywizm",
+    "word_definition": "Ideologia lub podejście zakładające, że interesy grupy są ważniejsze niż interesy jednostki."
+  },
+  {
+    "word": "Agrafka",
+    "word_definition": "Mały metalowy element służący do łączenia papierów w segregatorze."
+  },
+  {
+    "word": "Kognitywizm",
+    "word_definition": "Teoria lub nauka zajmująca się badaniem procesów poznawczych i myślenia."
+  },
+  {
+    "word": "Banalność",
+    "word_definition": "Coś, co jest przeciętne, powszechne i pozbawione oryginalności lub głębi."
+  },
+  {
+    "word": "Idylliczny",
+    "word_definition": "Kojarzący się z doskonałą harmonią, spokojem i pięknem, często w kontekście przyrody lub scen krajobrazowych."
+  },
+  {
+    "word": "Kurtuazja",
+    "word_definition": "Uprzejme i grzeczne zachowanie, często wobec innych ludzi, w celu wyrażenia szacunku i dobrej woli."
+  },
+  {
+    "word": "Abdykować",
+    "word_definition": "Zrzec się urzędu, stanowiska lub władzy."
+  },
+  {
+    "word": "Bulwar",
+    "word_definition": "Szeroka ulica lub aleja, zazwyczaj wzdłuż brzegu rzeki lub jeziora."
+  },
+  {
+    "word": "Cynizm",
+    "word_definition": "Postawa lub przekonanie polegające na podejrzewaniu, że ludzie zawsze działają w sposób egoistyczny i niegodziwy."
+  },
+  {
+    "word": "Dyskrecjonalny",
+    "word_definition": "Pozostawiony do indywidualnej decyzji lub uznania."
+  },
+  {
+    "word": "Egzekucja",
+    "word_definition": "Realizacja lub wypełnienie decyzji, wyroku lub planu."
+  },
+  {
+    "word": "Fenomenologia",
+    "word_definition": "Filozoficzna metoda badania doświadczenia ludzkiego, skoncentrowana na opisie i analizie bez wprowadzania teoretycznych założeń."
+  },
+  {
+    "word": "Gnomika",
+    "word_definition": "Nauka badająca genomy organizmów."
+  },
+  {
+    "word": "Hedonista",
+    "word_definition": "Osoba, która kieruje swoje działania ku maksymalizacji przyjemności i unikaniu cierpienia."
+  },
+  {
+    "word": "Intrygować",
+    "word_definition": "Prowadzić działania lub knuć w celu osiągnięcia ukrytego celu lub wprowadzenia w błąd innych."
+  },
+  {
+    "word": "Jowialny",
+    "word_definition": "Wesoły, pogodny i pełen optymizmu."
+  },
+  {
+    "word": "Kameleoniczny",
+    "word_definition": "Zmieniający się lub dostosowujący się w zależności od sytuacji lub otoczenia."
+  },
+  {
+    "word": "Leksykon",
+    "word_definition": "Książka lub źródło zawierające zestawienie słów wraz z ich definicjami lub opisami."
+  },
+  {
+    "word": "Makabryczność",
+    "word_definition": "Stan określający coś jako przerażające, okropne lub przesadnie drastyczne."
+  },
+  {
+    "word": "Nihilizm",
+    "word_definition": "Filozoficzna doktryna twierdząca, że życie i istnienie nie mają sensu ani wartości."
+  },
+  {
+    "word": "Obelisk",
+    "word_definition": "Wysoki, wzniosły słup lub kolumna, często z inskrypcją lub pomnikiem na szczycie."
+  },
+  {
+    "word": "Paradoksalny",
+    "word_definition": "Sprzeczny lub dziwny w sposób pozornie niezgodny z intuicją."
+  },
+  {
+    "word": "Quixotyczny",
+    "word_definition": "Naiwny lub marzycielski w sposób nierealistyczny."
+  },
+  {
+    "word": "Raptularz",
+    "word_definition": "Zbiór osobistych notatek, zapisków lub myśli."
+  },
+  {
+    "word": "Sisyphean",
+    "word_definition": "Zadanie lub praca, która wydaje się być wiecznie powtarzalna i pozbawiona sensu."
+  },
+  {
+    "word": "Truant",
+    "word_definition": "Osoba, która unika obowiązków lub zajęć, zwłaszcza szkolnych."
+  },
+  {
+    "word": "Ubikacja",
+    "word_definition": "Inna nazwa toalety lub toalety."
+  },
+  {
+    "word": "Vexillology",
+    "word_definition": "Nauka badająca flagi, ich projektowanie i znaczenie."
+  },
+  {
+    "word": "Wrażliwość",
+    "word_definition": "Podatność na emocje, uczucia lub bodźce."
+  },
+  {
+    "word": "Xerofilia",
+    "word_definition": "Miłość do roślin lub obszarów geograficznych charakteryzujących się suchym klimatem."
+  },
+  {
+    "word": "Yogin",
+    "word_definition": "Osoba praktykująca jogę."
+  },
+  {
+    "word": "Zephyr",
+    "word_definition": "Delikatny i łagodny wiatr, zwykle wiejący z zachodu."
+  },
+  {
+    "word": "Żargon",
+    "word_definition": "Specyficzny słownictwo lub język używany przez grupę ludzi o wspólnych zainteresowaniach lub zawodzie."
+  },
+  {
+    "word": "Aczet",
+    "word_definition": "Miła osoba lub przyjaciel."
+  },
+  {
+    "word": "Beksa",
+    "word_definition": "Śmiech, często wywołany dowcipem lub sytuacją humorystyczną."
+  },
+  {
+    "word": "Cyganeria",
+    "word_definition": "Beztroska i swobodna egzystencja, często związana z artystami lub ludźmi o niestandardowym style życia."
+  },
+  {
+    "word": "Dżezwa",
+    "word_definition": "Mała, tradycyjna kawałek dzbanka lub czajnika używany do przygotowywania kawy lub herbaty."
+  },
+  {
+    "word": "Eklektyk",
+    "word_definition": "Osoba, która czerpie inspirację z różnych źródeł lub stylów."
+  },
+  {
+    "word": "Folklor",
+    "word_definition": "Tradycyjne opowieści, zwyczaje, pieśni i wierzenia przekazywane ustnie w danym społeczeństwie."
+  },
+  {
+    "word": "Grafologia",
+    "word_definition": "Badanie charakteru lub osobowości poprzez analizę pisma ręcznego."
+  },
+  {
+    "word": "Hermetyczny",
+    "word_definition": "Trudny do zrozumienia lub zamknięty przed innymi, często w odniesieniu do tekstów lub idei."
+  },
+  {
+    "word": "Izolatka",
+    "word_definition": "Osoba lub rzecz odizolowana lub oddzielona od innych."
+  },
+  {
+    "word": "Jukos",
+    "word_definition": "Krótka nazwa dla rosyjskiego przedsiębiorstwa naftowego Yukos, które było centralnym punktem sporu w latach 2000-2007."
+  },
+  {
+    "word": "Kafel",
+    "word_definition": "Mała płyta lub kawałek ceramiki używany do pokrywania ścian, podłóg lub innych powierzchni."
+  },
+  {
+    "word": "Lapidarny",
+    "word_definition": "Zwięzły i treściwy w wyrażaniu myśli lub informacji."
+  },
+  {
+    "word": "Malkontent",
+    "word_definition": "Osoba niezadowolona z obecnej sytuacji lub warunków."
+  },
+  {
+    "word": "Nekrolog",
+    "word_definition": "Krótka notka lub ogłoszenie informujące o śmierci osoby."
+  },
+  {
+    "word": "Owacja",
+    "word_definition": "Brawa lub aplauz wyrażający uznanie i entuzjazm."
+  },
+  {
+    "word": "Pankracy",
+    "word_definition": "Starożytna grecka dyscyplina sportowa, obejmująca boks i zapasy, w której wszelkie chwyty były dozwolone."
+  },
+  {
+    "word": "Quaterdeck",
+    "word_definition": "Wysoka część pokładu na statku, zwykle zarezerwowana dla oficerów."
+  },
+  {
+    "word": "Rarytas",
+    "word_definition": "Coś niezwykłego, rzadkiego lub cennego."
+  },
+  {
+    "word": "Scherzando",
+    "word_definition": "W muzyce, oznaczenie tempa oznaczające lekki i żartobliwy charakter wykonania."
+  },
+  {
+    "word": "Tandeta",
+    "word_definition": "Tania i kiczowata biżuteria lub ozdoba."
+  },
+  {
+    "word": "Ufonauta",
+    "word_definition": "Osoba twierdząca, że miała kontakt z istotami pozaziemskimi lub podróżowała na UFO."
+  },
+  {
+    "word": "Vulgo",
+    "word_definition": "W języku łacińskim, oznacza 'zwyczajnie' lub 'powszechnie', często używane w literaturze i poezji."
+  },
+  {
+    "word": "Witamina",
+    "word_definition": "Związek chemiczny niezbędny do zdrowego funkcjonowania organizmu, często występujący w jedzeniu."
+  },
+  {
+    "word": "Xantypa",
+    "word_definition": "Kobieta o wybuchowym charakterze, często kłótliwa lub drażliwa."
+  },
+  {
+    "word": "Yperyt",
+    "word_definition": "Toksyczny gaz bojowy używany w czasie I wojny światowej."
+  },
+  {
+    "word": "Zabobon",
+    "word_definition": "Irracjonalne przekonanie lub obrzędy mające na celu uniknięcie nieszczęścia lub przyciągnięcie szczęścia."
+  }
 ]
