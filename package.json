@@ -1,7 +1,8 @@
 {
   "type": "module",
   "scripts": {
-    "update_words": "node scripts/update_words.mjs"
+    "update_words": "node scripts/update_words.mjs",
+    "find_duplicates": "node scripts/find_duplicates.mjs"
   },
   "devDependencies": {
     "@types/node": "^20.5.9",
