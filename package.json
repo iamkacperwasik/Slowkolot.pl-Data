@@ -1,7 +1,7 @@
 {
   "type": "module",
   "scripts": {
-    "update_words": "node scripts/update_words.mjs",
+    "feed_database": "node scripts/feed_database.mjs",
     "find_duplicates": "node scripts/find_duplicates.mjs",
     "clear_database": "node scripts/clear_database.mjs"
   },
