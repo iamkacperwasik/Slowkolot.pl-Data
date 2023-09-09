@@ -28,6 +28,15 @@ cd Slowkolot.pl-Data
 npm install
 ```
 
+4. Utwórz plik `.env` w głównym katalogu projektu i dodaj w nim następujące zmienne:
+
+```js
+SUPABASE_URL = twój_adres_supabase_url;
+SUPABASE_SERVICE_ROLE = twój_service_role;
+```
+
+**Uwaga**: Zastąp `twój_adres_supabase_url` i `twój_service_role` odpowiednimi danymi dostępowymi do Twojej bazy danych Supabase.
+
 ### Dostępne skrypty
 
 Projekt dostarcza zestaw przydatnych skryptów, które można uruchomić za pomocą polecenia `npm run` w celu zarządzania bazą danych. Oto krótka prezentacja tych dostępnych skryptów:
